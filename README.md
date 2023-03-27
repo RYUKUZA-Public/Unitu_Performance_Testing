@@ -3,6 +3,7 @@
 </div>
 
 PerformanceTest.apkをダウンロード後、テストが可能です。
+(Android)モバイル環境に修正。
 
 Source : https://github.com/Matthew-J-Spencer/pushing-unity
 
